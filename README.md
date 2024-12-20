@@ -1,0 +1,2 @@
+# jesus
+setting up git
